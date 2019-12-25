@@ -1,0 +1,55 @@
+{
+  "processos": [
+    {
+      "id": 1,
+      "numeroProcesso": "2019000010",
+      "estado": "SP",
+      "fase": "Conhecimento,",
+      "valorProcesso": "12345",
+      "status": "Ativo",
+      "dataPublicacao": "16/01/2019",
+      "dataEncerramento": "16/10/2019"
+    },
+    {
+      "id": 2,
+      "numeroProcesso": "2018000011",
+      "estado": "RJ",
+      "fase": "Recursal",
+      "valorProcesso": "12345",
+      "status": "Encerrado",
+      "dataPublicacao": "10/01/2018",
+      "dataEncerramento": "10/01/2019"
+    },
+    {
+      "id": 3,
+      "numeroProcesso": "2018000009",
+      "estado": "MG",
+      "fase": "Execução",
+      "valorProcesso": "12345",
+      "status": "Ativo",
+      "dataPublicacao": "10/01/2018",
+      "dataEncerramento": "10/01/2019"
+    },
+    {
+      "id": 4,
+      "numeroProcesso": "2018003409",
+      "estado": "MG",
+      "fase": "Execução",
+      "valorProcesso": "12345",
+      "status": "Ativo",
+      "dataPublicacao": "10/01/2018",
+      "dataEncerramento": "10/01/2019"
+    },
+    {
+      "id": 5,
+      "numeroProcesso": "201803459",
+      "estado": "MG",
+      "fase": "Execução",
+      "valorProcesso": "12345",
+      "status": "Ativo",
+      "dataPublicacao": "10/01/2018",
+      "dataEncerramento": "10/01/2019"
+    }
+  ]
+}
+
