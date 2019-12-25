@@ -3,7 +3,9 @@
 
 # Build
 npm install
+
 json-server --watch dados.json
+
 npm run dev
 
 # Dados Acesso
